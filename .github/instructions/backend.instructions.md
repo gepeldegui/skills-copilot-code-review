@@ -1,6 +1,7 @@
 ---
 applyTo: "backend/**/*,*.py"
 ---
+---
 
 ## Backend Guidelines
 
